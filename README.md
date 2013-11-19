@@ -1,5 +1,5 @@
 Hello_World
 ===========
 
-My first repository
-__Intro to Programming__
+__My first repository__
+__for Intro to Programming__
